@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>053BA3E4-967C-478F-AC1F-1FB342E77EBE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>nedmalloc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FA424D9D28C29079456A41B66D325B4162DAAFE2</key>
+		<string>https://github.com/simonzhangsm/nedmalloc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>nedmalloc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FA424D9D28C29079456A41B66D325B4162DAAFE2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/simonzhangsm/nedmalloc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FA424D9D28C29079456A41B66D325B4162DAAFE2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FA424D9D28C29079456A41B66D325B4162DAAFE2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nedmalloc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
